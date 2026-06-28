@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-GPL--3.0-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
+<a href="https://github.com/Somya6422/Student_Attendance_Management_System/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge" alt="Download Latest Release">
+</a>
+
 A desktop-based Student Attendance Management System developed using **Python**, **Tkinter**, and **SQLite**.
 
 The application enables teachers, students, and principals to manage attendance efficiently through manual attendance, QR Code-based attendance, attendance analytics, and student performance monitoring.
