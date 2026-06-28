@@ -1,0 +1,29 @@
+# ---------------------------------------------------
+# School Attendance System Pro - .gitignore
+# ---------------------------------------------------
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Build Files
+build/
+*.spec
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
