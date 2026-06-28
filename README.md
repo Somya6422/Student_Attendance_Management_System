@@ -45,13 +45,13 @@ The application enables teachers, students, and principals to manage attendance 
 
 # 📸 Application Screenshots
 
-## Login Screen
+<h2 align="center">Login Screen</h2>
 
 ![Login](assets/screenshots/login.png)
 
 ---
 
-## Teacher Dashboard
+<h2 align="center">Teacher Dashboard</h2>
 
 ### Add Student
 
@@ -71,7 +71,7 @@ The application enables teachers, students, and principals to manage attendance 
 
 ---
 
-## Student Dashboard
+<h2 align="center">Student Dashboard</h2>
 
 ![Student Dashboard](assets/screenshots/student_dashboard.png)
 
@@ -81,7 +81,7 @@ The application enables teachers, students, and principals to manage attendance 
 
 ---
 
-## Principal Dashboard
+<h2 align="center">Principal Dashboard</h2>
 
 ### Actions
 
